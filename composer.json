@@ -1,0 +1,17 @@
+{
+    "name": "asus/uts-pbwl-arief",
+    "description": "UTS Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Asus\\UtsPbwlArief\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rizeto",
+            "email": "ariefzukik@gmail.com"
+        }
+    ],
+    "require": {}
+}
